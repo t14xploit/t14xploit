@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hej, jag är Tina.
 
 Webbutvecklare med fokus på frontend och backend. Jag bygger och vidareutvecklar moderna webbapplikationer med tydlig struktur, användarfokus och säkerhet i åtanke. Jag gillar att lösa problem, samarbeta i team och lära mig nya tekniker.
