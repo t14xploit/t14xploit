@@ -4,10 +4,10 @@ Webbutvecklare med fokus på frontend och backend. Jag bygger och vidareutveckla
 
 ## 🚀 Projekt
 
-- [Diodt](https://diodt.netlify.app/) – Responsiv React-app  
 - [Pamadorka](https://pamadorka.netlify.app/) – Webapplikation med interaktiv funktionalitet  
 - [Tinytalker](https://tinytalker.netlify.app/) – Enkel chatt-applikation  
-- [Weather-T14x](https://weather-t14x.netlify.app/) – Väderapp med API-integration  
+- [Weather-T14x](https://weather-t14x.netlify.app/) – Väderapp med API-integration
+- [Diodt](https://diodt.netlify.app/) –  React-app skeleton 
 
 > Jag har även arbetat i större teamprojekt (privata repos), med fokus på fullstackutveckling och systemintegration. Mer information kan delas vid behov.
 
