@@ -1,22 +1,42 @@
-# 👋 Hej, jag är Tina.
+# 👋 Hej, jag är Tina
 
-Webbutvecklare med fokus på frontend och backend. Jag bygger och vidareutvecklar moderna webbapplikationer med tydlig struktur, användarfokus och säkerhet i åtanke. Jag gillar att lösa problem, samarbeta i team och lära mig nya tekniker.
+**IT-specialist med bred kompetens inom utveckling, system och säkerhet.**  
+Jag arbetar med allt från moderna webbapplikationer till systemintegration, felsökning och teknisk drift.  
+Har ett starkt intresse för cybersäkerhet och stabila, säkra system.
+
+Jag trivs i roller där jag får kombinera problemlösning, teknik och samarbete.
+
+---
 
 ## 🚀 Projekt
 
-- [Pamadorka](https://pamadorka.netlify.app/) – Webapplikation med interaktiv funktionalitet  
-- [Tinytalker](https://tinytalker.netlify.app/) – Enkel chatt-applikation  
-- [Weather-T14x](https://weather-t14x.netlify.app/) – Väderapp med API-integration
-- [Diodt](https://diodt.netlify.app/) –  React-app skeleton 
+- [Pamadorka](https://pamadorka.netlify.app/) – Produktivitetsapp med timer, statistik och interaktiva funktioner  
+- [Tinytalker](https://tinytalker.netlify.app/) – Applikation för talträning med användarprofiler och progressuppföljning  
+- [Weather-T14x](https://weather-t14x.netlify.app/) – Väderapp med API-integration och dynamiskt UI  
+- [Diodt](https://diodt.netlify.app/) – React-baserad projektmall för snabb utvecklingsstart  
 
-> Jag har även arbetat i större teamprojekt (privata repos), med fokus på fullstackutveckling och systemintegration. Mer information kan delas vid behov.
+> Erfarenhet av teamprojekt (privata repos) med fokus på systemintegration, backendlogik och samarbete i utvecklingsteam.
+
+---
 
 ## 💻 Tekniska färdigheter
 
-- **Frontend:** React, Next.js, JavaScript, TypeScript, CSS, Tailwind, Bootstrap  
-- **Backend:** Node.js, C#/.NET, REST API, Prisma ORM  
-- **Databaser:** PostgreSQL, SQL  
-- **Övrigt:** Git, Docker, Linux, autentisering, rollbaserad åtkomst (RBAC), GDPR-anpassning  
+**Utveckling:**  
+React, Next.js, TypeScript, JavaScript, Node.js, Python, .NET  
+
+**System & Drift:**  
+Linux, Docker, Bash, felsökning, deployment  
+
+**Databaser:**  
+PostgreSQL, SQL  
+
+**Säkerhet:**  
+Autentisering, RBAC, GDPR, grundläggande cybersäkerhet  
+
+**Övrigt:**  
+Git, REST API, Prisma  
+
+---
 
 ## 📌 Certifieringar
 
@@ -24,3 +44,4 @@ Webbutvecklare med fokus på frontend och backend. Jag bygger och vidareutveckla
 - IBM Cybersecurity Analyst  
 - SAS Advanced Programmer  
 - Google IT Support Professional
+- TryHackMe – Pre Security (praktisk introduktion till cybersäkerhet)
