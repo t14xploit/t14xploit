@@ -12,8 +12,7 @@ Jag trivs i roller där jag får kombinera problemlösning, teknik och samarbete
 
 - [Pamadorka](https://pamadorka.netlify.app/) – Produktivitetsapp med timer, statistik och interaktiva funktioner  
 - [Tinytalker](https://tinytalker.netlify.app/) – Applikation för talträning med användarprofiler och progressuppföljning  
-- [Weather-T14x](https://weather-t14x.netlify.app/) – Väderapp med API-integration och dynamiskt UI  
-- [Diodt](https://diodt.netlify.app/) – React-baserad projektmall för snabb utvecklingsstart  
+
 
 > Erfarenhet av teamprojekt (privata repos) med fokus på systemintegration, backendlogik och samarbete i utvecklingsteam.
 
